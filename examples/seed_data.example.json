@@ -1,0 +1,13 @@
+[
+  {
+    "platform": "示例平台",
+    "title": "示例后端开发面经",
+    "url": "https://example.com/interview/1",
+    "text": "1. Redis 缓存穿透怎么解决？\n2. TCP 为什么需要三次握手？",
+    "company": "示例公司",
+    "business": "后端开发",
+    "date": "2026-01-01",
+    "confidence": "A",
+    "keyword": "示例数据"
+  }
+]
